@@ -1,0 +1,18 @@
+{
+  "name": "geoiplite2-lambda-layer",
+  "version": "1.0.0",
+  "description": "GeoLite2 Database Lambda Layer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^4.4.3"
+  },
+  "dependencies": {
+    "maxmind": "^4.3.21"
+  }
+}
